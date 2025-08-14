@@ -7,14 +7,15 @@ Allo Prof is an LLM based language tutor, which will adaptively learn your abili
 - [x] Set up basic language chatbot with OpenAI API. 
 - [x] Basic profile data structures.
 - [ ] Implement adaptive logic - start with user input level, then change according to mistakes and acquired knowledge.
-- [ ] Save conversation history.
-- [ ] Feedback reports at the end of conversations.
+- [x] Save conversation history.
+- [x] Feedback reports at the end of conversations.
 
 ## Stage 2: Simple UI
 
 - [ ] Implement voice input.
 - [ ] Add TTS for LLM output.
 - [ ] Simple interface in Streamlit.
+- [ ] Options: Choose difficulty level (slightly above, below or equal to my level), select unfamiliar words
 - [ ] Set up proper database to store profiles and conversations (SQLite, MongoDB?).
 
 ## Stage 3: Add features

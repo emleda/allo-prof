@@ -1,0 +1,26 @@
+[
+  {
+    "conversation": [
+      {
+        "role": "user",
+        "content": "xin chao, ban khoe khong?"
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Mình khỏe, cảm ơn bạn. Còn bạn thì sao? Bạn có khỏe không?"
+      },
+      {
+        "role": "user",
+        "content": "toi khong biet"
+      },
+      {
+        "role": "assistant",
+        "content": "Không sao cả! Nếu bạn không biết, mình có thể giúp bạn. Bạn có thể nói \"Tôi không khỏe\" nếu bạn cảm thấy không tốt, hoặc \"Tôi khỏe\" nếu bạn thấy tốt. Bạn muốn học thêm từ nào khác không?"
+      }
+    ],
+    "summary": {
+      "grammar": [],
+      "vocab": []
+    }
+  }
+]
