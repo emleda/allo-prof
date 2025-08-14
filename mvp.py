@@ -1,7 +1,10 @@
 from openai import OpenAI
 import json
+from dotenv import load_dotenv
+import os
 
-client = OpenAI(api_key="") #add your own api key here
+load_dotenv()
+client = OpenAI(api_key=os.getenv('OPENAI_KEY')) #api key stored in environment variable for security
 
 #introduction
 user_connected = False
