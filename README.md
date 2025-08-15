@@ -1,6 +1,8 @@
 # Your AI powered language parent: Allo Prof!
 
-Allo Prof is an LLM based language tutor, which will adaptively learn your ability in a second language and tailor its content to your level. 
+The best way to learn a language is immersion: speaking with and listening to native speakers. But most people struggle with this, when learning a foreign language as an adult it's difficult to avoid feelings of embarassment, or to put off actually speaking for when you are "good enough". That's where Allo Prof steps in, you can start speaking, listening, writing and reading right off the bat at your own level. Working with the tutor, you can build your confidence in expressing yourself and understanding a language so that when you get a chance to engage with it in real life, you are ready to shine. 
+
+Allo Prof is an LLM based language tutor, which will adaptively learn your ability in a second language and tailor its content to your level. Currently in development.
 
 ## Stage 1: Minimum Viable Product
 
